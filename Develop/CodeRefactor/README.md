@@ -6,6 +6,10 @@ The Code refactor is the Development version of the Horiseon Digital Marketing s
 
 https://kennyskasa.github.io./Develop/CodeRefactor/index.html
 
+## Repository
+
+[Click on Projects](https://kennyskasa.github.io)
+
 ## Usage and installation of source code
 
 ```Git bash, html and css
