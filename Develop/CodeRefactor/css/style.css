@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* background colour is light grey/off white */
 body {
     background-color: #d9dcd6;
 }
@@ -15,6 +16,9 @@ body {
     color: #ffffff;
 }
 
+/* inline block allows to set a width and height on the element.
+ does not add a line-break after the element */
+ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* For top image */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +81,7 @@ p {
     margin-left: 20px;
 }
 
+/* center to right side */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -162,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* set all three classes to same height */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -189,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* center the text in the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -199,3 +207,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+
