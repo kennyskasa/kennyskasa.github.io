@@ -1,6 +1,6 @@
 # HTML CSS Git Challenge: Code Refactor
 
-The Code refactor is the Development version of the Horiseon Digital Marketinmg site
+The Code refactor is the Development version of the Horiseon Digital Marketing site
 
 ## Location
 
@@ -8,7 +8,7 @@ https://kennyskasa.github.io./Develop/CodeRefactor/index.html
 
 ## Usage and installation of source code
 
-```python
+```Git bash, html and css
 git init
 
 git add A.
@@ -19,4 +19,4 @@ git push
 ## Author: 
 Ken Moulton - kennyskasa@gmail.com
 
-Please make sure to update tests as appropriate.
+Ready for QA and UAT testing.
